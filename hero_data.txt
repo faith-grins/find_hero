@@ -1,0 +1,2390 @@
+
+Table of Contents
+
+1.  Introduction <ITRD>
+ a.  Frequently Asked Questions <FAQ>
+ b.  Legalese <LGL>
+ c.  Version History <VERS>
+2.  The Heroes <HRO>
+ a.  Leonhardt <GEN1>
+ b.  Ladius <GEN2>
+ c.  Thoma <GEN3>
+ d.  Duran <GEN4>
+ e.  Rex <GEN5>
+3.  Willpower <WPR>
+ a.  Willpower Glossary <WPGL>
+4.  Extended Areas <EXAR>
+5.  Useless Information Department <UID>
+6.  Credits and Online Application <CRE>
+7.  Contact Information <CNFO>
+
+===============================================================================
+
+Introduction                                                             <ITRD>
+
+Welcome to my "Ultimate Agarest Hero" FAQ!  This FAQ is meant to be a thorough
+collection of all relevant information to the heroes of Agarest in one spot.
+
+This FAQ will cover the following:
+
+*  The statistics of a hero, sorted by lineage.  That means his base stats,
+the growth rates, the affects of Proof of Valiant.  
+
+*  Weapon choices based on a hero's lineage, including the skill slots given
+both by weapon choice and added by way of Proof of Valiant.
+
+*  Willpowers gained by the hero.  From the second generation onward, there
+is some wiggle room to change Willpower based on when you use the Proof of
+Valiant.  While it is generally advised to use the Proof of Valiant as soon
+as possible, there may be a lineage or two where the Willpower gained by not
+using a Proof of Valiant is superior.
+
+*  Extended areas for each hero.
+
+This FAQ will not cover any of the following:
+
+*  A walkthrough for the game.  There are plenty of sources available for
+that, and this is not one of them.
+
+*  A "how to" for playing Record of Agarest War.
+
+*  Advice for choices regarding the heroines and how to increase their
+affection for the hero.  If you use this guide to plan out which heroines
+you wish your heroes to marry, it is easy enough through common sense to
+woo one particular heroine and maximize her affection.  If you need a guide,
+those are available elsewhere on the internet.
+
+Frequently Asked Questions                                                <FAQ>
+
+Q:  Which version of the game was used to write this walkthrough?
+
+A:  I have the EU disc-based version, so that's what I used.  There are some
+translation differences to be noted, which is why I've included a Willpower
+glossary with the Willpower section.  Some have different names, but the
+definitions should be eaqsy enough to follow.
+
+Q:  My preferred heroine only "Likes" my hero, and doesn't "Love" him.  Does
+it matter?
+
+A:  A heroine at "Like" affection will give you a decidedly inferior hero for
+the next generation as opposed to a heroine at "Love" affection.  The next
+generation's hero's base attributes will be the same or lower (usually lower),
+the growth rates for said attributes will suffer from the same decline, and a
+Proof of Valiant will also have diminished effects.  Sometimes, a hero from
+the union of a Hero and Heroine at "Like" status will wield different weapons
+than one from a "Love" relationship.
+
+Q:  What impact does a mother play?
+
+A:  The mother is the strongest influence on the hero of the next generation.
+Most often, a hero will resemble his mother in combat in some fashion -- a
+mage heroine generally produces mage offspring, and warrior to warrior.  The
+mother determines what a hero looks like, what Willpowers he learns, and what
+his extended area will be.  The mother also contributes one of the extra skill
+slots learned by a Hero when he uses a Proof of Valiant.
+
+Q:  What impact does a grandmother, great grandmother, etc., play?
+
+A:  The grandmother determines the other skill slot learned by a Hero when he
+uses a Proof of Valiant.  Beyond that, the cumulative lineage of a hero will
+determine a hero's base attributes and growth rates, as well as his weapon of
+choice.  There isn't a hard and fast formula for this one, at least not one
+that has been discovered.  Weapon choices often lean towards those wielded by
+the hero's parents, grandparents, etc.
+
+Q:  Why does my hero wield a sword in cut-scenes when he uses a rod (or
+scythe, or gun, or whatever else)?
+
+A:  I don't know.  Maybe the developers were lazy.  Maybe it didn't occur to
+them.  Maybe they decided that a sword "looked cool".  Pick your own reason.
+
+Legalese                                                                  <LGL>
+
+This is version 1.01 of the Ultimate Agarest Hero FAQ.
+
+This document is solely my own work, and copyrighted to me (acasser).  This is
+intended to be used by individual readers for their own private use, and not
+to be re-published or re-transmitted in any form.  Do not give it away, do not
+sell it, and do not use it as a promotion for something else.
+
+All characters and the like referenced herein come from the game Record of
+Agarest War, and the copyrights and other rights to said characters belong to
+the developers and publishers in question.
+
+If you wish to host this guide on your site, you must e-mail me and ask for
+permission first.  If I say "no", "no" means "no" -- do not pester me and
+tell me why your site should be different, and do not ignore my wishes.  If
+I do not respond, that also means "no" -- either I never received a request
+for you to host it, or I don't feel like giving you a specific denial.  Only
+if I say "yes" do you have permission to host this guide, and even then you
+must re-produce this guide exactly as it is here.
+
+It has been long enough since the original Hero FAQ was released that I'll
+be a little more liberal with permission to host it.  Still, ask first and
+ask nicely.
+
+Permission is given to www.GameFAQs.com to host this guide and any additions
+or modifications I make to this guide.  Blanket permission is also given to
+the Agarest Wiki (http://agarest.wikia.com/wiki/Agarest_Wiki) to slice and
+dice the information found in the Heroes sub-section to fill out their pages
+on the various heroes.  I've made liberal use of the wiki while playing this
+game (over and over again), and this is my way of saying thank you.
+
+Version History                                                          <VERS>
+
+Version 1.00 - July 16, 2010 -- Original file
+Version 1.01 - November 15, 2010 -- Added web address of online application.
+ Also included the "Useless Information Department" random trivia that I
+ stumbled across as I compiled this file, but never included in the original
+ 1.00 version (but posted to the PS3 boards).
+
+===============================================================================
+
+The Heroes                                                                <HRO>
+
+If all you are looking for are the nuts and bolts on a particular hero, that 
+follows below.  You can use <Ctrl - F>, the key for a given hero is his 
+generation number, followed by the first letter of each heroine in his 
+lineage.  For example, a 3rd generation hero whose lineage was Vira-Lorr and
+Sharona would be <3VS>, while a 5th generation hero whose lineage was 
+Winfield, Arbol, Ganz, and Fer would be <5WAGF>.
+
+Growth Rate Notes
+
+Maximum cost in PP to raise the related attribute by one point.
+
+S = 7, A = 8, B = 9, C = 10, D = 11, E = 12, F = 13
+
+Leonhardt                                                                <GEN1>
+
+Level 1                                      Proof of Valiant
+
+STR:     13-A                                no change
+VIA:     11-B                                no change
+AGI:     8-C                                 +8
+INT:     7-C                                 +8
+LUK:     7-B                                 +9
+
+HP:      336                                 +1350
+AP:      16                                  +7
+MV:      3                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 extra
+
+Ladius                                                                   <GEN2>
+
+Elaine                                                                     <2E>
+Level 18                                     Proof of Valiant
+
+STR:     42-A                                +4
+VIA:     42-S                                +6
+AGI:     24-C                                +7
+INT:     23-C                                +13
+LUK:     18-C                                +8
+
+HP:      2436                                +2225
+AP:      14                                  +8
+MV:      3                                   +1
+
+Weapon:  knuckles
+Skills:  2 power, 2 combo                    1 fire, 1 earth
+
+Fyuria                                                                     <2F>
+Level 18                                     Proof of Valiant
+
+STR:     33-B                                +1
+VIA:     27-B                                +1
+AGI:     31-A                                +10
+INT:     33-B                                +14
+LUK:     26-D                                +14
+
+HP:      1843                                +2095
+AP:      17                                  +8
+MV:      3                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 combo                    1 fire, 1 wind
+
+Luana                                                                      <2L>
+Level 18                                     Proof of Valiant
+
+STR:     21-D                                +4
+VIA:     24-C                                +6
+AGI:     28-B                                +7
+INT:     39-A                                +13
+LUK:     35-A                                +8
+
+HP:      1387                                +2000
+AP:      16                                  +8
+MV:      3                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 fire, 1 water
+
+Thoma                                                                    <GEN3>
+
+Elaine - Sherufanir                                                       <3ES>
+Level 34                                     Proof of Valiant
+
+STR:     35-C                                +10
+VIA:     38-C                                -3
+AGI:     54-A                                +10
+INT:     39-B                                +16
+LUK:     46-B                                +6
+
+HP:      3662                                +1825
+AP:      17                                  +7
+MV:      4                                   +1
+
+Weapon:  sword, rod
+Skills:  2 general, 1 power, 1 light         2 earth
+
+Elaine - Valeria                                                          <3EV>
+Level 34                                     Proof of Valiant
+
+STR:     54-S                                +16
+VIA:     59-S                                +10
+AGI:     43-C                                +13
+INT:     37-D                                +6
+LUK:     38-C                                -1
+
+HP:      4506                                +2380
+AP:      16                                  +8
+MV:      3                                   +1
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 light, 1 earth
+
+Elaine - Yayoi                                                            <3EY>
+Level 34                                     Proof of Valiant
+
+STR:     26-D                                +9
+VIA:     37-D                                +1
+AGI:     52-S                                +14
+INT:     53-A                                +14
+LUK:     51-B                                +4
+
+HP:      3095                                +1665
+AP:      15                                  +7
+MV:      4                                   +1
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 water, 1 earth
+
+Fyuria - Sherufanir                                                       <3FS>
+Level 34                                     Proof of Valiant
+
+STR:     35-C                                +12
+VIA:     38-C                                -3
+AGI:     52-A                                +9
+INT:     39-A                                +16
+LUK:     48-B                                +6
+
+HP:      3637                                +1825
+AP:      17                                  +7
+MV:      4                                   +1
+
+Weapon:  sword, rod
+Skills:  2 general, 1 power, 1 light         1 earth, 1 wind
+
+Fyuria - Valeria                                                          <3FV>
+Level 34                                     Proof of Valiant
+
+STR:     52-S                                +16
+VIA:     54-A                                +7
+AGI:     42-C                                +12
+INT:     38-C                                +8
+LUK:     40-B                                no change
+
+HP:      4306                                +2275
+AP:      16                                  +7
+MV:      3                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 light, 1 wind
+
+Fyuria - Yayoi                                                            <3FY>
+Level 34                                     Proof of Valiant
+
+STR:     25-D                                +9
+VIA:     35-D                                no change
+AGI:     51-S                                +13
+INT:     55-S                                +15
+LUK:     53-B                                +5
+
+HP:      3045                                +1645
+AP:      15                                  +7
+MV:      3                                   +1
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 water, 1 wind
+
+Luana - Sherufanir                                                        <3LS>
+Level 34                                     Proof of Valiant
+
+STR:     38-B                                +15
+VIA:     42-C                                -1
+AGI:     50-B                                +9
+INT:     35-C                                +14
+LUK:     45-A                                +4
+
+HP:      3712                                +2075
+AP:      16                                  +7
+MV:      3                                   +1
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 earth, 1 water
+
+Luana - Valeria                                                           <3LV>
+Level 34                                     Proof of Valiant
+
+STR:     53-S                                +17
+VIA:     55-A                                +7
+AGI:     40-C                                +12
+INT:     33-C                                +7
+LUK:     38-B                                -1
+
+HP:      4331                                +2305
+AP:      15                                  +7
+MV:      3                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 light, 1 water
+
+Luana - Yayoi                                                             <3LY>
+Level 34                                     Proof of Valiant
+
+STR:     23-C                                +9
+VIA:     37-D                                +11
+AGI:     49-S                                +13
+INT:     58-S                                +17
+LUK:     52-B                                +5
+
+HP:      2920                                +1675
+AP:      15                                  +7
+MV:      3                                   +1
+
+Weapon:  breaker
+Skills:  2 combo, 1 general, 1 thunder       2 water
+
+Duran                                                                    <GEN4>
+
+Elaine - Sherufanir - Faina                                              <4ESF>
+Level 46                                     Proof of Valiant
+
+STR:     33-D                                +5
+VIA:     34-D                                +8
+AGI:     78-S                                +10
+INT:     69-S                                +6
+LUK:     62-B                                +18
+
+HP:      4284                                +1740
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 extra
+
+Elaine - Sherufanir - Lavinia                                            <4ESL>
+Level 46                                     Proof of Valiant
+
+STR:     58-C                                +12
+VIA:     58-A                                +16
+AGI:     77-S                                +7
+INT:     47-B                                +2
+LUK:     47-B                                +11
+
+HP:      5907                                +2190
+AP:      17                                  +9
+MV:      3                                   +3
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 thunder
+
+Elaine - Sherufanir - Noah                                               <4ESN>
+Level 46                                     Proof of Valiant
+
+STR:     61-A                                +17
+VIA:     66-S                                +16
+AGI:     61-C                                +3
+INT:     35-D                                -2
+LUK:     44-C                                +11
+
+HP:      6953                                +2635
+AP:      18                                  +9
+MV:      3                                   +2
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 earth, 1 wind
+
+Elaine - Valeria - Faina                                                 <4EVF>
+Level 46                                     Proof of Valiant
+
+STR:     27-D                                +5
+VIA:     32-E                                +7
+AGI:     74-S                                +8
+INT:     68-S                                +5
+LUK:     62-B                                +19
+
+HP:      4309                                +1575
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 light, 1 extra
+
+Elaine - Valeria - Lavinia                                               <4EVL>
+Level 46                                     Proof of Valiant
+
+STR:     56-C                                +13
+VIA:     59-A                                +17
+AGI:     70-A                                +4
+INT:     46-B                                +1
+LUK:     44-B                                +9
+
+HP:      6057                                +2055
+AP:      17                                  +9
+MV:      3                                   +3
+
+Weapon:  knuckle
+Skills:  2 power, 2 combo                    1 light, 1 thunder
+
+Elaine - Valeria - Noah                                                  <4EVN>
+Level 46                                     Proof of Valiant
+
+STR:     65-A                                +18
+VIA:     67-S                                +15
+AGI:     61-D                                +3
+INT:     40-C                                no change
+LUK:     48-B                                +11
+
+HP:      6928                                +2600
+AP:      19                                  +9
+MV:      4                                   +3
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 light, 1 wind
+
+Elaine - Yayoi - Faina                                                   <4EYF>
+Level 46                                     Proof of Valiant
+
+STR:     23-D                                +3
+VIA:     32-E                                +7
+AGI:     76-S                                +8
+INT:     78-S                                +11
+LUK:     66-B                                +22
+
+HP:      3959                                +1595
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  scythe
+Skills:  2 power, 1 dark, 1 extra            1 water, 1 extra
+
+Elaine - Yayoi - Lavinia                                                 <4EYL>
+Level 46                                     Proof of Valiant
+
+STR:     53-C                                +12
+VIA:     56-B                                +15
+AGI:     73-A                                +5
+INT:     46-B                                +2
+LUK:     47-B                                +11
+
+HP:      5932                                +2025
+AP:      17                                  +9
+MV:      3                                   +3
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 water, 1 thunder
+
+Elaine - Yayoi - Noah                                                    <4EYN>
+Level 46                                     Proof of Valiant
+
+STR:     59-A                                +16
+VIA:     64-S                                +15
+AGI:     61-C                                +3
+INT:     37-C                                -1
+LUK:     44-C                                +12
+
+HP:      6928                                +2510
+AP:      18                                  +9
+MV:      3                                   +2
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 water, 1 wind
+
+Fyuria - Sherufanir - Faina                                              <4FSF>
+Level 46                                     Proof of Valiant
+
+STR:     31-D                                +5
+VIA:     32-E                                +7
+AGI:     77-S                                +9
+INT:     70-S                                +7
+LUK:     64-B                                +19
+
+HP:      4234                                +1730
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 extra
+
+Fyuria - Sherufanir - Lavinia                                            <4FSL>
+Level 46                                     Proof of Valiant
+
+STR:     55-B                                +13
+VIA:     57-B                                +15
+AGI:     75-A                                +6
+INT:     45-B                                +1
+LUK:     47-B                                +11
+
+HP:      6907                                +2180
+AP:      16                                  +9
+MV:      3                                   +3
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 earth, 1 thunder
+
+Fyuria - Sherufanir - Noah                                               <4FSN>
+Level 46                                     Proof of Valiant
+
+STR:     60-A                                +17
+VIA:     61-S                                +13
+AGI:     59-C                                +3
+INT:     36-C                                +1
+LUK:     46-B                                +12
+
+HP:      6753                                +2530
+AP:      18                                  +8
+MV:      3                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 earth, 1 wind
+
+Fyuria - Valeria - Faina                                                 <4FVF>
+Level 46                                     Proof of Valiant
+
+STR:     26-D                                +5
+VIA:     30-E                                +6
+AGI:     73-S                                +7
+INT:     69-S                                +6
+LUK:     64-B                                +20
+
+HP:      4259                                +1565
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 light, 1 extra
+
+Fyuria - Valeria - Lavinia                                               <4FVL>
+Level 46                                     Proof of Valiant
+
+STR:     53-B                                +14
+VIA:     58-B                                +17
+AGI:     68-B                                +3
+INT:     44-B                                no change
+LUK:     44-B                                +10
+
+HP:      6057                                +2045
+AP:      16                                  +9
+MV:      3                                   +3
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 light, 1 thunder
+
+Fyuria - Valeria - Noah                                                  <4FVN>
+Level 46                                     Proof of Valiant
+
+STR:     61-A                                +18
+VIA:     64-S                                +13
+AGI:     59-D                                +2
+INT:     39-C                                no change
+LUK:     48-B                                +12
+
+HP:      6853                                +1740
+AP:      18                                  +8
+MV:      3                                   +3
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 light, 1 wind
+
+Fyuria - Yayoi - Faina                                                   <4FYF>
+Level 46                                     Proof of Valiant
+
+STR:     22-D                                +3
+VIA:     30-F                                +6
+AGI:     75-S                                +8
+INT:     79-S                                +11
+LUK:     68-B                                +25
+
+HP:      3909                                +1585
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 water, 1 extra
+
+Fyuria - Yayoi - Lavinia                                                 <4FYL>
+Level 46                                     Proof of Valiant
+
+STR:     50-B                                +13
+VIA:     55-C                                +14
+AGI:     71-A                                +4
+INT:     44-B                                +1
+LUK:     47-B                                +22
+
+HP:      5932                                +2015
+AP:      16                                  +9
+MV:      3                                   +3
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 water, 1 thunder
+
+Fyuria - Yayoi - Noah                                                    <4FYN>
+Level 46                                     Proof of Valiant
+
+STR:     56-B                                +16
+VIA:     59-A                                +12
+AGI:     57-C                                +2
+INT:     36-C                                +1
+LUK:     46-C                                +12
+
+HP:      6753                                +2385
+AP:      18                                  +8
+MV:      3                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 water, 1 wind
+
+Luana - Sherufanir - Faina                                               <4LSF>
+Level 46                                     Proof of Valiant
+
+STR:     29-D                                +4
+VIA:     34-E                                +7
+AGI:     79-S                                +10
+INT:     74-S                                +9
+LUK:     66-A                                +20
+
+HP:      4084                                +1770
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 earth, 1 extra
+
+Luana - Sherufanir - Lavinia                                             <4LSL>
+Level 46                                     Proof of Valiant
+
+STR:     57-B                                +14
+VIA:     59-B                                +17
+AGI:     75-A                                +6
+INT:     41-B                                +1
+LUK:     47-B                                +10
+
+HP:      5882                                +2370
+AP:      16                                  +9
+MV:      3                                   +3
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 earth, 1 thunder
+
+Luana - Sherufanir - Noah                                                <4LSN>
+Level 46                                     Proof of Valiant
+
+STR:     62-D                                +19
+VIA:     64-F                                +14
+AGI:     58-S                                +2
+INT:     29-S                                -1
+LUK:     44-B                                +10
+
+HP:      6803                                +2685
+AP:      18                                  +8
+MV:      3                                   +2
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 earth, 1 wind
+
+Luana - Valeria - Faina                                                  <4LVF>
+Level 46                                     Proof of Valiant
+
+STR:     26-C                                +7
+VIA:     34-F                                +9
+AGI:     72-S                                +12
+INT:     71-S                                +7
+LUK:     63-A                                +19
+
+HP:      4159                                +1710
+AP:      15                                  +8
+MV:      4                                   +2
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 light, 1 extra
+
+Luana - Valeria - Lavinia                                                <4LVL>
+Level 46                                     Proof of Valiant
+
+STR:     55-A                                +17
+VIA:     60-B                                +19
+AGI:     65-C                                +1
+INT:     40-C                                -1
+LUK:     41-A                                +7
+
+HP:      6057                                +2215
+AP:      16                                  +9
+MV:      2                                   +3
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 light, 1 thunder
+
+Luana - Valeria - Noah                                                   <4LVN>
+Level 46                                     Proof of Valiant
+
+STR:     65-S                                +21
+VIA:     68-S                                +15
+AGI:     59-D                                +2
+INT:     35-C                                -1
+LUK:     48-A                                +10
+
+HP:      6903                                +2780
+AP:      18                                  +9
+MV:      3                                   +2
+
+Weapon:  spear
+Skills:  2 power, 2 combo                    1 light, 1 wind
+
+Luana - Yayoi - Faina                                                    <4LYF>
+Level 46                                     Proof of Valiant
+
+STR:     24-D                                +5
+VIA:     32-F                                +6
+AGI:     77-S                                +8
+INT:     79-S                                +11
+LUK:     70-A                                +13
+
+HP:      3884                                +1750
+AP:      16                                  +8
+MV:      4                                   +3
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 water, 1 extra
+
+Luana - Yayoi - Lavinia                                                  <4LYL>
+Level 46                                     Proof of Valiant
+
+STR:     52-B                                +15
+VIA:     57-C                                +16
+AGI:     68-B                                +3
+INT:     40-B                                no change
+LUK:     44-B                                +9
+
+HP:      4932                                +2185
+AP:      16                                  +9
+MV:      3                                   +3
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 water, 1 lightning
+
+Luana - Yayoi - Noah                                                     <4LYN>
+Level 46                                     Proof of Valiant
+
+STR:     59-A                                +18
+VIA:     62-A                                +13
+AGI:     56-C                                +1
+INT:     29-C                                -1
+LUK:     44-B                                +11
+
+HP:      6803                                +2540
+AP:      17                                  +8
+MV:      3                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 water, 1 wind
+
+Rex                                                                      <GEN5>
+
+Elaine - Sherufanir - Faina - Hildegard                                 <5ESFH>
+Level 58                                     Proof of Valiant
+
+STR:     72-B                                +1
+VIA:     70-B                                +8
+AGI:     59-B                                +17
+INT:     49-B                                +7
+LUK:     59-A                                +14
+
+HP:      9468                                +2550
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 extra
+
+Elaine - Sherufanir - Faina - Ryuryu                                    <5ESFR>
+Level 58                                     Proof of Valiant
+
+STR:     38-C                                no change
+VIA:     36-D                                +8
+AGI:     69-A                                +14
+INT:     88-S                                +15
+LUK:     71-B                                +13
+
+HP:      6640                                +1660
+AP:      16                                  +9
+MV:      3                                   +1
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 extra
+
+Elaine - Sherufanir - Faina - Silvi                                     <5ESFS>
+Level 58                                     Proof of Valiant
+
+STR:     54-C                                +3
+VIA:     53-C                                +5
+AGI:     67-S                                +12
+INT:     64-A                                +11
+LUK:     64-B                                +16
+
+HP:      8374                                +2150
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 wind, 1 extra
+
+Elaine - Sherufanir - Lavinia - Hildegard                               <5ESLH>
+Level 58                                     Proof of Valiant
+
+STR:     76-A                                +4
+VIA:     74-A                                +10
+AGI:     58-C                                +16
+INT:     46-C                                +4
+LUK:     57-A                                +12
+
+HP:      9618                                +2695
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 thunder
+
+Elaine - Sherufanir - Lavinia - Ryuryu                                  <5ESLR>
+Level 58                                     Proof of Valiant
+
+STR:     42-B                                +2
+VIA:     40-C                                +9
+AGI:     66-B                                +13
+INT:     77-A                                +9
+LUK:     65-B                                +8
+
+HP:      6965                                +1725
+AP:      16                                  +9
+MV:      3                                   +1
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 thunder
+
+Elaine - Sherufanir - Lavinia - Silvi                                   <5ESLS>
+Level 58                                     Proof of Valiant
+
+STR:     56-B                                +4
+VIA:     59-B                                +9
+AGI:     64-A                                +11
+INT:     57-C                                +6
+LUK:     58-C                                +12
+
+HP:      8649                                +2150
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Elaine - Sherufanir - Noah - Hildegard                                  <5ESLH>
+Level 58                                     Proof of Valiant
+
+STR:     78-S                                +5
+VIA:     76-A                                +11
+AGI:     58-C                                +16
+INT:     43-C                                +3
+LUK:     57-A                                +12
+
+HP:      9643                                +2820
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 wind
+
+Elaine - Sherufanir - Noah - Ryuryu                                     <5ESNR>
+Level 58                                     Proof of Valiant
+
+STR:     44-C                                +3
+VIA:     38-C                                +8
+AGI:     66-B                                +13
+INT:     75-A                                +8
+LUK:     65-B                                +8
+
+HP:      7665                                +1725
+AP:      16                                  +9
+MV:      3                                   +1
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 wind
+
+Elaine - Sherufanir - Noah - Silvi                                      <5ESNS>
+Level 58                                     Proof of Valiant
+
+STR:     58-B                                +5
+VIA:     59-B                                +8
+AGI:     64-B                                +11
+INT:     58-B                                +7
+LUK:     60-B                                +12
+
+HP:      8599                                +2170
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  2 wind
+
+Elaine - Valeria - Faina - Hildegard                                    <5EVFH>
+Level 58                                     Proof of Valiant
+
+STR:     72-B                                +2
+VIA:     70-A                                +8
+AGI:     56-B                                +16
+INT:     49-C                                +7
+LUK:     56-A                                +13
+
+HP:      9493                                +2530
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knuckle
+Skills:  2 power, 2 combo                    1 fire, 1 extra
+
+Elaine - Valeria - Faina - Ryuryu                                       <5EVFR>
+Level 58                                     Proof of Valiant
+
+STR:     35-B                                +1
+VIA:     36-D                                +6
+AGI:     65-B                                +12
+INT:     85-S                                +13
+LUK:     71-B                                +13
+
+HP:      6690                                +1620
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 earth, 1 extra
+
+Elaine - Valeria - Faina - Silvi                                        <5EVFS>
+Level 58                                     Proof of Valiant
+
+STR:     57-B                                +4
+VIA:     55-C                                +5
+AGI:     69-A                                +12
+INT:     68-A                                +12
+LUK:     68-B                                +16
+
+HP:      8324                                +2265
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 wind, 1 extra
+
+Elaine - Valeria - Lavinia - Hildegard                                  <5EVLH>
+Level 58                                     Proof of Valiant
+
+STR:     74-A                                +4
+VIA:     72-A                                +11
+AGI:     52-C                                +14
+INT:     48-C                                +5
+LUK:     51-B                                +11
+
+HP:      9643                                +2530
+AP:      16                                  +10
+MV:      3                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 thunder
+
+Elaine - Valeria - Lavinia - Ryuryu                                     <5EVLR>
+Level 58                                     Proof of Valiant
+
+STR:     39-B                                +2
+VIA:     38-C                                +8
+AGI:     64-B                                +12
+INT:     77-A                                +9
+LUK:     65-B                                +9
+
+HP:      6965                                +1580
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 thunder
+
+Elaine - Valeria - Lavinia - Silvi                                      <5EVLS>
+Level 58                                     Proof of Valiant
+
+STR:     59-A                                +6
+VIA:     61-A                                +9
+AGI:     62-B                                +10
+INT:     61-B                                +8
+LUK:     59-B                                +11
+
+HP:      8624                                +2245
+AP:      16                                  +9
+MV:      5                                   +1
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Elaine - Valeria - Noah - Hildegard                                     <5EVNH>
+Level 58                                     Proof of Valiant
+
+STR:     76-S                                +5
+VIA:     74-A                                +12
+AGI:     52-D                                +8
+INT:     46-C                                +4
+LUK:     51-A                                +10
+
+HP:      9668                                +2655
+AP:      16                                  +10
+MV:      3                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 wind
+
+Elaine - Valeria - Noah - Ryuryu                                        <5EVNR>
+Level 58                                     Proof of Valiant
+
+STR:     41-B                                +5
+VIA:     38-D                                +8
+AGI:     62-B                                +11
+INT:     72-A                                +6
+LUK:     65-A                                +8
+
+HP:      7115                                +1685
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 earth, 1 wind
+
+Elaine - Valeria - Noah - Silvi                                         <5EVNS>
+Level 58                                     Proof of Valiant
+
+STR:     61-A                                +7
+VIA:     61-B                                +9
+AGI:     62-C                                +10
+INT:     62-B                                +9
+LUK:     61-B                                +11
+
+HP:      8574                                +2265
+AP:      16                                  +9
+MV:      5                                   +1
+
+Weapon:  spear
+Skills:  2 power, 2 general                  2 wind
+
+Elaine - Yayoi - Faina - Hildegard                                      <5EYFH>
+Level 58                                     Proof of Valiant
+
+STR:     72-B                                +1
+VIA:     70-B                                +8
+AGI:     59-B                                +17
+INT:     49-B                                +7
+LUK:     59-A                                +14
+
+HP:      9468                                +2550
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 extra
+
+Elaine - Yayoi - Faina - Ryuryu                                         <5EYFR>
+Level 58                                     Proof of Valiant
+
+STR:     33-C                                no change
+VIA:     34-E                                +4
+AGI:     67-A                                +12
+INT:     93-S                                +17
+LUK:     75-B                                +16
+
+HP:      6440                                +1640
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  rod  
+Skills:  2 special, 1 light, 1 extra         1 earth, 1 extra
+
+Elaine - Yayoi - Faina - Silvi                                          <5EYFS>
+Level 58                                     Proof of Valiant
+
+STR:     54-C                                +3
+VIA:     53-C                                +5
+AGI:     67-S                                +12
+INT:     64-A                                +11
+LUK:     64-B                                +16
+
+HP:      8374                                +2150
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 wind, 1 extra
+
+Elaine - Yayoi - Lavinia - Hildegard                                    <5EYLH>
+Level 58                                     Proof of Valiant
+
+STR:     74-A                                +3
+VIA:     72-A                                +10
+AGI:     55-C                                +15
+INT:     48-C                                +5
+LUK:     54-B                                +12
+
+HP:      9618                                +2550
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 thunder
+
+Elaine - Yayoi - Lavinia - Ryuryu                                       <5EYLR>
+Level 58                                     Proof of Valiant
+
+STR:     34-B                                -1
+VIA:     38-D                                +8
+AGI:     66-B                                +12
+INT:     87-S                                +14
+LUK:     69-C                                +12
+
+HP:      6615                                +1600
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  scythe
+Skills:  2 power, 1 dark, 1 extra            1 earth, 1 thunder
+
+Elaine - Yayoi - Lavinia - Silvi                                        <5EYLS>
+Level 58                                     Proof of Valiant
+
+STR:     56-B                                +4
+VIA:     55-B                                +7
+AGI:     66-A                                +11
+INT:     63-B                                +9
+LUK:     62-C                                +15
+
+HP:      8499                                +2170
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Elaine - Yayoi - Noah - Hildegard                                       <5EYNH>
+Level 58                                     Proof of Valiant
+
+STR:     76-A                                +5
+VIA:     74-A                                +11
+AGI:     55-C                                +15
+INT:     46-C                                +4
+LUK:     51-A                                +141
+
+HP:      9643                                +2675
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 wind
+
+Elaine - Yayoi - Noah - Ryuryu                                          <5EYNR>
+Level 58                                     Proof of Valiant
+
+STR:     37-B                                +3
+VIA:     38-D                                +8
+AGI:     64-B                                +11
+INT:     82-S                                +12
+LUK:     69-B                                +11
+
+HP:      6765                                +1705
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  scythe
+Skills:  2 power, 1 dark, 1 extra            1 earth, 1 wind
+
+Elaine - Yayoi - Noah - Silvi                                           <5EYNS>
+Level 58                                     Proof of Valiant
+
+STR:     58-B                                +5
+VIA:     55-B                                +6
+AGI:     66-A                                +11
+INT:     64-A                                +10
+LUK:     64-B                                +15
+
+HP:      8449                                +2190
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  2 wind
+
+Fyuria - Sherufanir - Faina - Hildegard                                 <5FSFH>
+Level 58                                     Proof of Valiant
+
+STR:     71-B                                +1
+VIA:     68-B                                +6
+AGI:     58-B                                +16
+INT:     48-B                                +7
+LUK:     59-A                                +15
+
+HP:      9393                                +2475
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 extra
+
+Fyuria - Sherufanir - Faina - Ryuryu                                    <5FSFR>
+Level 58                                     Proof of Valiant
+
+STR:     37-C                                +1
+VIA:     34-D                                +5
+AGI:     68-A                                +13
+INT:     90-S                                +11
+LUK:     73-B                                +14
+
+HP:      6590                                +1650
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 earth, 1 extra
+
+Fyuria - Sherufanir - Faina - Silvi                                     <5FSFS>
+Level 58                                     Proof of Valiant
+
+STR:     58-C                                +5
+VIA:     54-C                                +4
+AGI:     66-A                                +11
+INT:     65-A                                +12
+LUK:     66-B                                +16
+
+HP:      8349                                +2155
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 extra
+
+Fyuria - Sherufanir - Lavinia - Hildegard                               <5FSLH>
+Level 58                                     Proof of Valiant
+
+STR:     78-A                                +5
+VIA:     75-A                                +10
+AGI:     56-C                                +15
+INT:     45-C                                +4
+LUK:     57-A                                +12
+
+HP:      9643                                +2680
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 thunder
+
+Fyuria - Sherufanir - Lavinia - Ryuryu                                  <5FSLR>
+Level 58                                     Proof of Valiant
+
+STR:     42-B                                +2
+VIA:     38-C                                +8
+AGI:     67-B                                +13
+INT:     80-A                                +10
+LUK:     67-B                                +10
+
+HP:      6890                                +1735
+AP:      16                                  +9
+MV:      3                                   +1
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 thunder
+
+Fyuria - Sherufanir - Lavinia - Silvi                                   <5FSLS>
+Level 58                                     Proof of Valiant
+
+STR:     58-B                                +5
+VIA:     56-B                                +6
+AGI:     63-A                                +10
+INT:     60-B                                +10
+LUK:     62-B                                +14
+
+HP:      8474                                +2105
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Fyuria - Sherufanir - Noah - Hildegard                                  <5FSNH>
+Level 58                                     Proof of Valiant
+
+STR:     80-S                                +7
+VIA:     77-A                                +11
+AGI:     56-C                                +15
+INT:     42-C                                +3
+LUK:     57-A                                +12
+
+HP:      9668                                +2805
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 wind
+
+Fyuria - Sherufanir - Noah - Ryuryu                                     <5FSNR>
+Level 58                                     Proof of Valiant
+
+STR:     43-C                                +4
+VIA:     36-C                                +7
+AGI:     65-B                                +12
+INT:     76-A                                +8
+LUK:     67-B                                +10
+
+HP:      7015                                +1715
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 earth, 1 wind
+
+Fyuria - Sherufanir - Noah - Silvi                                      <5FSNS>
+Level 58                                     Proof of Valiant
+
+STR:     59-B                                +6
+VIA:     56-C                                +5
+AGI:     63-B                                +10
+INT:     62-A                                +11
+LUK:     64-B                                +14
+
+HP:      8424                                +2125
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  2 wind
+
+Fyuria - Valeria - Faina - Hildegard                                    <5FVFH>
+Level 58                                     Proof of Valiant
+
+STR:     74-A                                +3
+VIA:     72-A                                +9
+AGI:     56-C                                +16
+INT:     49-C                                +5
+LUK:     56-A                                +13
+
+HP:      9568                                +2590
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 extra
+
+Fyuria - Valeria - Faina - Ryuryu                                       <5FVFR>
+Level 58                                     Proof of Valiant
+
+STR:     35-C                                +1
+VIA:     34-E                                +5
+AGI:     66-A                                +12
+INT:     88-S                                +15
+LUK:     73-B                                +14
+
+HP:      6615                                +1630
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 earth, 1 extra
+
+Fyuria - Valeria - Faina - Silvi                                        <5FVFS>
+Level 58                                     Proof of Valiant
+
+STR:     61-B                                +6
+VIA:     57-C                                +5
+AGI:     69-A                                +12
+INT:     70-A                                +12
+LUK:     70-B                                +16
+
+HP:      8349                                +2345
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 wind, 1 extra
+
+Fyuria - Valeria - Lavinia - Hildegard                                  <5FVLH>
+Level 58                                     Proof of Valiant
+
+STR:     76-S                                +5
+VIA:     74-S                                +12
+AGI:     52-D                                +14
+INT:     48-C                                +4
+LUK:     51-B                                +11
+
+HP:      9718                                +2590
+AP:      16                                  +10
+MV:      3                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 thunder
+
+Fyuria - Valeria - Lavinia - Ryuryu                                     <5FVLR>
+Level 58                                     Proof of Valiant
+
+STR:     37-B                                +2
+VIA:     36-D                                +7
+AGI:     63-B                                +11
+INT:     79-S                                +10
+LUK:     67-B                                +11
+
+HP:      6915                                +1570
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 earth, 1 thunder
+
+Fyuria - Valeria - Lavinia - Silvi                                      <5FVLS>
+Level 58                                     Proof of Valiant
+
+STR:     61-A                                +7
+VIA:     59-B                                +8
+AGI:     63-B                                +10
+INT:     65-B                                +10
+LUK:     63-B                                +13
+
+HP:      8499                                +2275
+AP:      16                                  +9
+MV:      5                                   +1
+
+Weapon:  spear
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Fyuria - Valeria - Noah - Hildegard                                     <5FVNH>
+Level 58                                     Proof of Valiant
+
+STR:     78-S                                +7
+VIA:     76-S                                +13
+AGI:     52-D                                +14
+INT:     46-D                                +3
+LUK:     51-A                                +10
+
+HP:      9743                                +2715
+AP:      16                                  +10
+MV:      3                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 wind
+
+Fyuria - Valeria - Noah - Ryuryu                                        <5FVNR>
+Level 58                                     Proof of Valiant
+
+STR:     41-B                                +5
+VIA:     36-D                                +7
+AGI:     63-B                                +11
+INT:     75-A                                +8
+LUK:     67-A                                +10
+
+HP:      7040                                +1695
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 earth, 1 wind
+
+Fyuria - Valeria - Noah - Silvi                                         <5FVNS>
+Level 58                                     Proof of Valiant
+
+STR:     61-A                                +7
+VIA:     59-B                                +8
+AGI:     63-B                                +10
+INT:     65-B                                +10
+LUK:     63-B                                +13
+
+HP:      8499                                +2275
+AP:      16                                  +9
+MV:      5                                   +1
+
+Weapon:  spear
+Skills:  2 power, 2 general                  2 wind
+
+Fyuria - Yayoi - Faina - Hildegard                                      <5FYFH>
+Level 58                                     Proof of Valiant
+
+STR:     71-B                                +1
+VIA:     68-B                                +6
+AGI:     58-B                                +16
+INT:     48-B                                +7
+LUK:     59-A                                +15
+
+HP:      9393                                +2485
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 extra
+
+Fyuria - Yayoi - Faina - Ryuryu                                         <5FYFR>
+Level 58                                     Proof of Valiant
+
+STR:     33-C                                no change
+VIA:     34-E                                +4
+AGI:     67-A                                +12
+INT:     93-S                                +17
+LUK:     75-B                                +16
+
+HP:      6440                                +1640
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 earth, 1 extra
+
+Fyuria - Yayoi - Faina - Silvi                                          <5FYFS>
+Level 58                                     Proof of Valiant
+
+STR:     58-C                                +5
+VIA:     54-C                                +4
+AGI:     66-A                                +11
+INT:     65-A                                +12
+LUK:     66-B                                +16
+
+HP:      8349                                +2155
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 extra
+
+Fyuria - Yayoi - Lavinia - Hildegard                                    <5FYLH>
+Level 58                                     Proof of Valiant
+
+STR:     76-A                                +4
+VIA:     73-A                                +10
+AGI:     53-C                                +14
+INT:     47-C                                +4
+LUK:     54-B                                +12
+
+HP:      9643                                +2535
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 thunder
+
+Fyuria - Yayoi - Lavinia - Ryuryu                                       <5FYLR>
+Level 58                                     Proof of Valiant
+
+STR:     33-B                                no change
+VIA:     36-D                                +7
+AGI:     65-B                                +11
+INT:     89-S                                +15
+LUK:     71-C                                +14
+
+HP:      6565                                +1590
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  scythe
+Skills:  2 power, 1 dark, 1 extra            1 earth, 1 thunder
+
+Fyuria - Yayoi - Lavinia - Silvi                                        <5FYLS>
+Level 58                                     Proof of Valiant
+
+STR:     58-B                                +5
+VIA:     54-C                                +5
+AGI:     64-A                                +10
+INT:     63-A                                +11
+LUK:     64-B                                +15
+
+HP:      8399                                +2115
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Fyuria - Yayoi - Noah - Hildegard                                       <5FYNH>
+Level 58                                     Proof of Valiant
+
+STR:     78-A                                +6
+VIA:     75-A                                +11
+AGI:     53-C                                +14
+INT:     45-C                                +4
+LUK:     54-A                                +11
+
+HP:      9668                                +2670
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 wind
+
+Fyuria - Yayoi - Noah - Ryuryu                                          <5FYNR>
+Level 58                                     Proof of Valiant
+
+STR:     37-B                                +3
+VIA:     36-D                                +7
+AGI:     65-B                                +11
+INT:     85-S                                +13
+LUK:     71-B                                +13
+
+HP:      6690                                +1715
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 earth, 1 wind
+
+Fyuria - Yayoi - Noah - Silvi                                           <5FYNS>
+Level 58                                     Proof of Valiant
+
+STR:     59-B                                +6
+VIA:     54-C                                +4
+AGI:     64-A                                +10
+INT:     65-A                                +12
+LUK:     66-B                                +15
+
+HP:      8349                                +2135
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  2 wind
+
+Luana - Sherufanir - Faina - Hildegard                                  <5LSFH>
+Level 58                                     Proof of Valiant
+
+STR:     73-B                                +3
+VIA:     68-C                                +6
+AGI:     56-B                                +15
+INT:     43-B                                +7
+LUK:     59-A                                +13
+
+HP:      9318                                +2600
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 extra
+
+Luana - Sherufanir - Faina - Ryuryu                                     <5LSFR>
+Level 58                                     Proof of Valiant
+
+STR:     37-B                                +1
+VIA:     38-E                                +5
+AGI:     70-A                                +14
+INT:     91-S                                +17
+LUK:     75-B                                +14
+
+HP:      6465                                +1815
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 earth, 1 extra
+
+Luana - Sherufanir - Faina - Silvi                                      <5LSFS>
+Level 58                                     Proof of Valiant
+
+STR:     54-D                                +3
+VIA:     50-D                                +2
+AGI:     66-S                                +11
+INT:     64-A                                +13
+LUK:     66-A                                +17
+
+HP:      8224                                +2040
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 wind, 1 extra
+
+Luana - Sherufanir - Lavinia - Hildegard                                <5LSLH>
+Level 58                                     Proof of Valiant
+
+STR:     80-A                                +8
+VIA:     75-B                                +10
+AGI:     53-C                                +14
+INT:     41-C                                +5
+LUK:     56-S                                +10
+
+HP:      9543                                +2815
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 fire, 1 thunder
+
+Luana - Sherufanir - Lavinia - Ryuryu                                   <5LSLR>
+Level 58                                     Proof of Valiant
+
+STR:     40-B                                +1
+VIA:     40-C                                +8
+AGI:     68-A                                +14
+INT:     83-S                                +12
+LUK:     69-B                                +11
+
+HP:      6740                                +1775
+AP:      16                                  +9
+MV:      3                                   +1
+
+Weapon:  sword, knife
+Skills:  2 combo, 1 special, 1 fire          1 earth, 1 thunder
+
+Luana - Sherufanir - Lavinia - Silvi                                    <5LSLS>
+Level 58                                     Proof of Valiant
+
+STR:     56-C                                +4
+VIA:     54-C                                +5
+AGI:     63-A                                +10
+INT:     59-B                                +10
+LUK:     62-B                                +15
+
+HP:      8424                                +2050
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Luana - Sherufanir - Noah - Hildegard                                   <5LSNH>
+Level 58                                     Proof of Valiant
+
+STR:     80-A                                +8
+VIA:     75-B                                +10
+AGI:     53-C                                +14
+INT:     41-C                                +5
+LUK:     56-S                                +10
+
+HP:      9543                                +2815
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  gun
+Skills:  2 power, 2 general                  1 fire, 1 wind
+
+Luana - Sherufanir - Noah - Ryuryu                                      <5LSNR>
+Level 58                                     Proof of Valiant
+
+STR:     41-B                                +3
+VIA:     38-D                                +7
+AGI:     66-B                                +13
+INT:     80-A                                +10
+LUK:     69-A                                +11
+
+HP:      6865                                +1755
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 earth, 1 wind
+
+Luana - Sherufanir - Noah - Silvi                                       <5LSNS>
+Level 58                                     Proof of Valiant
+
+STR:     58-C                                +5
+VIA:     54-C                                +4
+AGI:     63-A                                +10
+INT:     61-A                                +11
+LUK:     64-A                                +15
+
+HP:      8374                                +2070
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  2 wind
+
+Luana - Valeria - Faina - Hildegard                                     <5LVFH>
+Level 58                                     Proof of Valiant
+
+STR:     74-A                                +4
+VIA:     72-A                                +10
+AGI:     53-C                                +14
+INT:     47-C                                +6
+LUK:     53-A                                +11
+
+HP:      9543                                +2635
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knuckle
+Skills:  2 power, 2 combo                    1 fire, 1 extra
+
+Luana - Valeria - Faina - Ryuryu                                        <5LVFR>
+Level 58                                     Proof of Valiant
+
+STR:     35-B                                +2
+VIA:     38-E                                +5
+AGI:     68-A                                +13
+INT:     90-S                                +16
+LUK:     75-A                                +14
+
+HP:      6490                                +1795
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 earth, 1 extra
+
+Luana - Valeria - Faina - Silvi                                         <5LVFS>
+Level 58                                     Proof of Valiant
+
+STR:     57-C                                +5
+VIA:     53-C                                +3
+AGI:     66-A                                +11
+INT:     69-A                                +14
+LUK:     67-A                                +16
+
+HP:      8249                                +2210
+AP:      16                                  +9
+MV:      5                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 wind, 1 extra
+
+Luana - Valeria - Lavinia - Hildegard                                   <5LVLH>
+Level 58                                     Proof of Valiant
+
+STR:     78-S                                +8
+VIA:     76-A                                +13
+AGI:     50-D                                +13
+INT:     45-D                                +4
+LUK:     50-A                                +9
+
+HP:      9668                                +2800
+AP:      16                                  +10
+MV:      3                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 thunder
+
+Luana - Valeria - Lavinia - Ryuryu                                      <5LVLR>
+Level 58                                     Proof of Valiant
+
+STR:     37-B                                +4
+VIA:     40-D                                +9
+AGI:     61-C                                +11
+INT:     80-A                                +11
+LUK:     66-A                                +9
+
+HP:      6815                                +1715
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 earth, 1 thunder
+
+Luana - Valeria - Lavinia - Silvi                                       <5LVLS>
+Level 58                                     Proof of Valiant
+
+STR:     59-B                                +7
+VIA:     57-B                                +7
+AGI:     60-B                                +9
+INT:     64-B                                +11
+LUK:     60-B                                +12
+
+HP:      8474                                +2200
+AP:      15                                  +9
+MV:      5                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Luana - Valeria - Noah - Hildegard                                      <5LVNH>
+Level 58                                     Proof of Valiant
+
+STR:     80-S                                +9
+VIA:     78-A                                +14
+AGI:     50-D                                +13
+INT:     43-D                                +3
+LUK:     50-S                                +8
+
+HP:      9693                                +2975
+AP:      16                                  +10
+MV:      3                                   +1
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 fire, 1 wind
+
+Luana - Valeria - Noah - Ryuryu                                         <5LVNR>
+Level 58                                     Proof of Valiant
+
+STR:     39-B                                +5
+VIA:     38-D                                +8
+AGI:     61-B                                +11
+INT:     78-A                                +10
+LUK:     66-A                                +9
+
+HP:      6915                                +1715
+AP:      15                                  +9
+MV:      2                                   +1
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 earth, 1 wind
+
+Luana - Valeria - Noah - Silvi                                          <5LVNS>
+Level 58                                     Proof of Valiant
+
+STR:     61-B                                +8
+VIA:     57-B                                +6
+AGI:     60-B                                +9
+INT:     66-B                                +12
+LUK:     62-A                                +12
+
+HP:      8424                                +2220
+AP:      15                                  +9
+MV:      5                                   +1
+
+Weapon:  sword, rod
+Skills:  2 general, 1 power, 1 light         2 wind
+
+Luana - Yayoi - Faina - Hildegard                                       <5LYFH>
+Level 58                                     Proof of Valiant
+
+STR:     71-B                                +2
+VIA:     66-B                                +6
+AGI:     53-B                                +14
+INT:     45-B                                +8
+LUK:     56-A                                +13
+
+HP:      9318                                +2455
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  knife
+Skills:  2 combo, 1 special, 1 wind          1 fire, 1 extra
+
+Luana - Yayoi - Faina - Ryuryu                                          <5LYFR>
+Level 58                                     Proof of Valiant
+
+STR:     35-B                                +2
+VIA:     36-E                                +4
+AGI:     69-A                                +13
+INT:     93-S                                +17
+LUK:     77-A                                +16
+
+HP:      6415                                +1805
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  rod
+Skills:  2 special, 1 light, 1 extra         1 earth, 1 extra
+
+Luana - Yayoi - Faina - Silvi                                           <5LYFS>
+Level 58                                     Proof of Valiant
+
+STR:     54-D                                +3
+VIA:     50-D                                +2
+AGI:     66-S                                +11
+INT:     64-A                                +13
+LUK:     66-A                                +17
+
+HP:      8224                                +2040
+AP:      16                                  +9
+MV:      5                                   +2
+
+Weapon:  breaker
+Skills:  2 special, 1 general, 1 thunder     1 wind, 1 extra
+
+Luana - Yayoi - Lavinia - Hildegard                                     <5LYLH>
+Level 58                                     Proof of Valiant
+
+STR:     78-A                                +7
+VIA:     73-B                                +10
+AGI:     50-C                                +13
+INT:     43-C                                +5
+LUK:     53-S                                +10
+
+HP:      9543                                +2670
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 fire, 1 thunder
+
+Luana - Yayoi - Lavinia - Ryuryu                                        <5LYLR>
+Level 58                                     Proof of Valiant
+
+STR:     35-B                                +2
+VIA:     38-E                                +7
+AGI:     66-B                                +12
+INT:     88-S                                +10
+LUK:     73-B                                +14
+
+HP:      6540                                +1755
+AP:      16                                  +8
+MV:      3                                   +1
+
+Weapon:  scythe
+Skills:  2 power, 1 dark, 1 extra            1 earth, 1 thunder
+
+Luana - Yayoi - Lavinia - Silvi                                         <5LYLS>
+Level 58                                     Proof of Valiant
+
+STR:     56-C                                +5
+VIA:     52-C                                +5
+AGI:     61-A                                +9
+INT:     62-B                                +12
+LUK:     61-B                                +15
+
+HP:      8374                                +2040
+AP:      15                                  +9
+MV:      5                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  1 wind, 1 thunder
+
+Luana - Yayoi - Noah - Hildegard                                        <5LYNH>
+Level 58                                     Proof of Valiant
+
+STR:     80-S                                +8
+VIA:     75-B                                +11
+AGI:     50-D                                +13
+INT:     41-D                                +5
+LUK:     53-S                                +9
+
+HP:      9568                                +2795
+AP:      16                                  +10
+MV:      4                                   +2
+
+Weapon:  gun
+Skills:  2 power, 2 combo                    1 fire, 1 wind
+
+Luana - Yayoi - Noah - Ryuryu                                           <5LYNR>
+Level 58                                     Proof of Valiant
+
+STR:     35-B                                +2
+VIA:     38-E                                +7
+AGI:     66-B                                +12
+INT:     88-S                                +15
+LUK:     73-B                                +14
+
+HP:      6540                                +1755
+AP:      15                                  +9
+MV:      3                                   +1
+
+Weapon:  scythe
+Skills:  2 power, 1 dark, 1 extra            1 earth, 1 wind
+
+Luana - Yayoi - Noah - Silvi                                            <5LYNS>
+Level 58                                     Proof of Valiant
+
+STR:     58-C                                +6
+VIA:     52-C                                +4
+AGI:     61-A                                +9
+INT:     64-A                                +13
+LUK:     63-A                                +15
+
+HP:      8324                                +2060
+AP:      15                                  +9
+MV:      5                                   +1
+
+Weapon:  sword, greatsword
+Skills:  2 power, 2 general                  2 wind
+
+===============================================================================
+
+Willpower                                                                 <WPR>
+
+Willpowers are determined solely by the mother of the hero in question.  Also,
+any willpower gained after level 50 is subject to a binary modifier:  has the
+hero used a Proof of Valiant or not.  Note that Leonhardt gains all four of
+his willpower before level 50, so the use of a Proof of Valiant is irrelevant.
+
+The number in parentheses indicates the level at which the willpower is gained.
+
+The names given for Willpowers are those used in the European version.  A
+glossary follows below to define the skills, for those that differ from their
+North American counterparts.
+
+Leonhardt:  Unleash All, Parry (24), Energy, Genius (32)
+
+Ladius (Elaine):  Bullishness, Genius (20)
+Ladius (Elaine, yes POV):  Mikiri (53), Unleash All (55)
+Ladius (Elaine, no POV):  Kung Fu Qigong (53), Boundless Power (55)
+
+Ladius (Fyuria):  Bullishness, Parry (20)
+Ladius (Fyuria, yes POV):  Anger (53), Unleash All (55)
+Ladius (Fyuria, no POV):  Mikiri (53), Boundless Power (55)
+
+Ladius (Luana):  Bullishness, Absolute Hits (20)
+Ladius (Luana, yes POV):  Total Resistance (53), Unleash All (55)
+Ladius (Luana, no POV):  Satori (53), Critical Break (55)
+
+Thoma (Sherufanir):  Genius, Parry
+Thoma (Sherufanir, yes POV):  Absolute Hits (52), Unleash All (55)
+Thoma (Sherunafir, no POV):  Satori (52), Kill Switch (55)
+
+Thoma (Valeria):  Bullishness, Genius
+Thoma (Valeria, yes POV):  Kill Switch (52), Unleash All (55)
+Thoma (Valeria, no POV):  Guard (52), Boundless Power (55)
+
+Thoma (Yayoi):  Genius, Total Resistance
+Thoma (Yayoi, yes POV):  Magic Shelter (52), Unleash All (55)
+Thoma (Yayoi, no POV):  Kung Fu Qigong (52), Unleash Magic (55)
+
+Duran (Faina):  Bullishness, Total Resistance
+Duran (Faina, yes POV):  Critical Break (52), Unleash All (54)
+Duran (Faina, no POV):  Kung Fu Qigong (52), Unleash Magic (54)
+
+Duran (Lavinia):  Bullishness, Total Resistance
+Duran (Lavinia, yes POV):  Parry (52), Unleash All (54)
+Duran (Lavinia, no POV):  Mikiri (52), Unleash Magic (54)
+
+Duran (Noah):  Total Resistance, Potential
+Duran (Noah, yes POV):  Absolute Hits (52), Unleash All (54)
+Duran (Noah, no POV):  Mikiri (52), Boundless Power (54)
+
+Rex (Hildegard):  Potential, Bullishness
+Rex (Hildegard, yes POV):  Anger (62), Unleash All (62)
+Rex (Hildegard, no POV):  Mikiri (62), Unleash Magic (62)
+
+Rex (Ryuryu):  Potential, Total Resistance
+Rex (Ryuryu, yes POV):  Critical Break (62), Unleash All (62)
+Rex (Ryuryu, no POV):  Guard (62), Kill Switch (62)
+
+Rex (Silvi):  Float, Genius
+Rex (Silvi, yes POV):  Parry (62), Unleash All (62)
+Rex (Silvi, no POV):  Mikiri (62), Unleash Magic (62)
+
+===============================================================================
+
+Willpower Glossary                                                       <WPGL>
+
+Absolute Hits -- Physical hits are 100% accurate when SP is 100 or more
+Anger -- Increases physical damage dealt when SP is 200 or more
+Boundless Power -- Increases physical damage and defense when HP is below 25%
+Bullishness -- Increases the SP gained
+Critical Break -- Incraeses magical damage dealt when SP is 200 or more
+Energy -- Increases the AP gain in the character's extended area
+Float -- Nullifies some skills, burst, and directional effects
+Genius -- Reduces the AP cost of skills when SP is 150 or more
+Guard -- Increases defense when SP is 150 or more
+Kill Switch -- Increases accuracy and critical rate when SP is 100 or more
+Kung Fu Qigong -- Voids damage equal to level * 3 when SP is 100 or more
+Mikiri -- Blocks all counter-attacks
+Parry -- Near-perfect evasion of physical attacks when HP is below 25%
+Potential -- Bonus points increased at level up
+Satori -- Increases evasion and accuracy when SP is 100 or more
+Total Resistance -- Increases all of the character's elemental resistances
+Unleash All -- All stats up when HP is below 25%
+Unleash Magic -- Increases magic and magic defense when HP is below 25%
+
+===============================================================================
+
+Extended Areas                                                           <EXAR>
+
+Extended areas are also solely based on the hero's mother.  Assuming the hero
+is facing towards the top of the screen, "X" indicates where extended areas
+lie, with "*" used to indicate other squares on the map.
+
+Leonhardt
+
+* X * * * X *
+* * * L * * *
+X * * X * * X
+* X * * * X *
+
+Ladius (Elaine)
+
+* X * * * X *
+* * * L * * *
+* * * * * * *
+X * * * * * *
+* * X * X * *
+
+Ladius (Fyuria)
+
+X * * L * * X
+* X * * * X *
+* * X * X * *
+
+Ladius (Luana)
+
+* X * * * X *
+* * * * * * *
+* * * * * * *
+X * * * * * X
+* * * L * * *
+* X * * * X *
+
+Thoma (Sherufanir)
+
+* * X * * * X * *
+X * * * * * * * X
+* * * * T * * * *
+* * * X * X * * *
+
+Thoma (Valeria)
+
+* * * X * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * T * * *
+X * * * * * X
+* X * * * X *
+* * * * * * *
+* * * X * * *
+
+Thoma (Yayoi)
+
+* * * X * * *
+* * * * * * *
+X * * * * * X
+* * * * * * *
+* * * X * * *
+* X * * * X *
+* * * T * * *
+
+Duran (Faina)
+
+* * X * X * *
+* * * * * * *
+* * * * * * *
+X * * * * * X
+* * X * X * *
+* * * D * * *
+
+Duran (Lavinia)
+
+X * * * X
+* * D * *
+X * X * X
+* * * * *
+* * * * *
+* * X * *
+
+Duran (Noah)
+
+* * * X * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+X * * D * * X
+* * * X * * *
+* X * * * X *
+
+Rex (Hildegard)
+
+* * X * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+X * * * X
+* X R X R
+* * * * *
+X * * * X
+
+Rex (Ryuryu)
+
+* X * * * X *
+X * * * * * X
+* * * * * * *
+* * * * * * *
+* * X R X * *
+
+Rex (Silvi)
+
+* * * * X * *
+* * * * * * *
+* * * * * * *
+X * * * * * X
+* * * * * * *
+* * * R * * *
+* * * * * * *
+* X * * * X *
+* * * X * * *
+
+===============================================================================
+
+Useless Information Department                                            <UID>
+
+Largest stat gain:  +25 (Luck, Duran, Fyuria - Yayoi - Faina)
+
+Number of heroes with an "E" growth rate:  10
+Number of heroes with an "F" growth rate:  3
+Number of heroes with multiple "S" growth rates:  14
+
+Number of heroes who lose points in an attribute at Proof of Valiant:  9
+Number of heroes who have an attribute not change at Proof of Valiant:  11
+
+Sword/Greatsword:	40
+Spear:			13
+Breaker:		13
+Knife:			12
+Sword/Knife:		11
+Gun:			10
+Rod:			9
+Scythe:		6
+Knuckle:		4
+Sword/Rod:		3
+
+There are compeltely identical twin Rexes out there, however they are few and
+far between.  Also relatively rare are nearly-identical Rexes, who are
+identical in every way save the skills they gain at level up -- this comes
+from having different grandmothers.
+
+Normally, a hero will have at least one attribute at "A" or higher growth.  If
+he doesn't, than he almost always has all "B" growth rates.  There is one hero,
+however, that does not:  Duran (Luana - Valeria - Lavinia) has BCBBB growth.
+
+===============================================================================
+
+Credits and Online Application                                            <CRE>
+
+GameFAQ's user parnelli26 has created an online web application based on the
+hero data contained in this file.  It can parse your heroes in one of two 
+fashions -- either you can put in a combination of wives to get a look at
+the heroes who result from them, or you can put in a desired weapon outcome
+for your fifth-generation hero and get combinations of wives that will give
+you such a wielder.
+
+If you're interested in this, you can find it on the web at 
+http://www.soifon.net/games/agarest.php
+
+===============================================================================
+
+Contact Information                                                      <CNFO>
+
+Comments, typos, things I might have forgotten while trying to filter huge
+amounts of information, etc., can be sent to my attention -- my e-mail
+address is below this paragraph.  Please put "Agarest FAQ" or something
+similar in the Subject line of your e-mail.... if it looks like junk mail,
+or it gets caught in my spam filters, I won't read and you will have wasted
+your time.
+
+acasser (at) hotmail (dot) com
+
+Please do not ask questions covered in this guide, as I'll simply ignore
+your e-mail in that case.
+
+I am not bilingual, so sending me e-mails in languages other than English
+is a waste of your time.  I will not filter someone's e-mails through a
+translator just to understand what you're saying.
+
+If I make changes based on someone's e-mails, I will give you credit by name,
+but not by e-mail address.  I'll respect your privacy and try to do what
+little I can to spare you from an additional plague of spam.
